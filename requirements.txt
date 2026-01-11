@@ -18,7 +18,7 @@ opencv-python==4.8.1
 
 # Utilities
 pyyaml==6.0.1
-tqdm==4.66.1
+tqdm==4.67.1
 psutil==5.9.6
 
 # Testing
