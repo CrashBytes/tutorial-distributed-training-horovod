@@ -1,5 +1,8 @@
 # Distributed ML Training with Horovod and PyTorch
 
+[![Tests](https://github.com/CrashBytes/tutorial-distributed-training-horovod/workflows/Tests/badge.svg)](https://github.com/CrashBytes/tutorial-distributed-training-horovod/actions)
+[![codecov](https://codecov.io/gh/CrashBytes/tutorial-distributed-training-horovod/branch/main/graph/badge.svg)](https://codecov.io/gh/CrashBytes/tutorial-distributed-training-horovod)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![PyTorch 2.1](https://img.shields.io/badge/PyTorch-2.1-red.svg)](https://pytorch.org/)
