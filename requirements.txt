@@ -14,7 +14,7 @@ tensorboard==2.15.1
 numpy==1.24.3
 pandas==2.1.0
 pillow==10.1.0
-opencv-python==4.8.1
+opencv-python==4.13.0.90
 
 # Utilities
 pyyaml==6.0.1
