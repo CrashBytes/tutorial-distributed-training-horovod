@@ -7,7 +7,7 @@ horovod[pytorch]==0.28.1
 mpi4py==3.1.5
 
 # Experiment Tracking
-mlflow==2.9.0
+mlflow==3.9.0
 tensorboard==2.15.1
 
 # Data Processing
