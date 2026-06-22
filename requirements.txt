@@ -22,6 +22,6 @@ tqdm==4.68.2
 psutil==7.2.2
 
 # Testing
-pytest==9.1.0
+pytest==9.1.1
 pytest-cov==7.1.0
 pytest-asyncio==1.4.0
