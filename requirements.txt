@@ -1,6 +1,6 @@
-torch==2.14.1
-torchvision==0.29.1
-torchaudio==2.11.0
+torch==2.8.0
+torchvision==0.18.0
+torchaudio==2.8.0
 
 # Distributed Training
 horovod[pytorch]==0.28.1
